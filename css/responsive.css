@@ -61,4 +61,16 @@
   .quick-notes > ul {
     display: block;
   }
+  .social-networks .label {
+    display: inline;
+  }
+
+  footer {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  footer > address {
+    text-align: left;
+  }
 }
