@@ -16,6 +16,21 @@
   .recipe-name > .recipe-origin {
     display: inline;
   }
+
+  .recipe-name,
+  .recipe-origin {
+    font-size: 32px;
+  }
+
+  .quick-notes > ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+
+  .quick-notes li {
+    width: 200px;
+  }
 }
 
 /* DESKTOP */
