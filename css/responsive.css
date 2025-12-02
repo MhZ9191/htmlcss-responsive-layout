@@ -31,6 +31,18 @@
   .quick-notes li {
     width: 200px;
   }
+
+  .social-networks .btn {
+    flex-grow: 1;
+  }
+
+  .ads {
+    display: block;
+  }
+  .clearfix > img {
+    float: left;
+    margin-right: 10px;
+  }
 }
 
 /* DESKTOP */
